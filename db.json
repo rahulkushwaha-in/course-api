@@ -1,0 +1,995 @@
+{
+  "courses":[
+      {
+        "id": 1,
+        "name": "Introduction to React",
+        "slug": "introduction-to-react",
+        "instructor": "John Doe",
+        "description": "Learn the basics of React development.",
+        "exploreLink": "/course/1",
+        "pricing": "$49",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Advanced JavaScript",
+        "slug": "advanced-javascript",
+        "instructor": "Jane Smith",
+        "description": "Deep dive into advanced JavaScript concepts.",
+        "exploreLink": "/course/2",
+        "pricing": "$59",
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Responsive Web Design",
+        "slug": "responsive-web-design",
+        "instructor": "Alice Johnson",
+        "description": "Master responsive design techniques.",
+        "exploreLink": "/course/3",
+        "pricing": "$39",
+        "rating": 4.3
+      },
+      {
+        "id": 4,
+        "name": "Node.js for Beginners",
+        "slug": "node-js-for-beginners",
+        "instructor": "Bob Brown",
+        "description": "Get started with server-side JavaScript using Node.js.",
+        "exploreLink": "/course/4",
+        "pricing": "$49",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "name": "Python Fundamentals",
+        "slug": "python-fundamentals",
+        "instructor": "Sarah Lee",
+        "description": "Learn the basics of Python programming language.",
+        "exploreLink": "/course/5",
+        "pricing": "$45",
+        "rating": 4.4
+      },
+      {
+        "id": 6,
+        "name": "Introduction to Machine Learning",
+        "slug": "introduction-to-machine-learning",
+        "instructor": "David Johnson",
+        "description": "Get an overview of machine learning concepts.",
+        "exploreLink": "/course/6",
+        "pricing": "$59",
+        "rating": 4.8
+      },
+      {
+        "id": 7,
+        "name": "Web Development Bootcamp",
+        "slug": "web-development-bootcamp",
+        "instructor": "Emily White",
+        "description": "Become a full-stack web developer in 12 weeks.",
+        "exploreLink": "/course/7",
+        "pricing": "$99",
+        "rating": 4.9
+      },
+      {
+        "id": 8,
+        "name": "Data Structures and Algorithms",
+        "slug": "data-structures-and-algorithms",
+        "instructor": "Mark Davis",
+        "description": "Learn essential data structures and algorithms.",
+        "exploreLink": "/course/8",
+        "pricing": "$79",
+        "rating": 4.7
+      },
+      {
+        "id": 9,
+        "name": "React Native Mobile App Development",
+        "slug": "react-native-mobile-app-development",
+        "instructor": "Laura Johnson",
+        "description": "Build cross-platform mobile apps using React Native.",
+        "exploreLink": "/course/9",
+        "pricing": "$69",
+        "rating": 4.6
+      },
+      {
+        "id": 10,
+        "name": "Angular Fundamentals",
+        "slug": "angular-fundamentals",
+        "instructor": "Michael Smith",
+        "description": "Master the basics of Angular framework.",
+        "exploreLink": "/course/10",
+        "pricing": "$59",
+        "rating": 4.5
+      },
+      {
+        "id": 11,
+        "name": "JavaScript Frameworks",
+        "slug": "javascript-frameworks",
+        "instructor": "Jessica Brown",
+        "description": "Explore popular JavaScript frameworks like React, Angular, and Vue.",
+        "exploreLink": "/course/11",
+        "pricing": "$49",
+        "rating": 4.8
+      },
+      {
+        "id": 12,
+        "name": "Django Web Development",
+        "slug": "django-web-development",
+        "instructor": "Ryan Lee",
+        "description": "Build web applications using the Django framework.",
+        "exploreLink": "/course/12",
+        "pricing": "$59",
+        "rating": 4.7
+      },
+      {
+        "id": 13,
+        "name": "Vue.js Essentials",
+        "slug": "vue-js-essentials",
+        "instructor": "Sophia Miller",
+        "description": "Get started with Vue.js framework.",
+        "exploreLink": "/course/13",
+        "pricing": "$49",
+        "rating": 4.6
+      },
+      {
+        "id": 14,
+        "name": "Java Programming",
+        "slug": "java-programming",
+        "instructor": "Chris Johnson",
+        "description": "Learn Java programming language from scratch.",
+        "exploreLink": "/course/14",
+        "pricing": "$69",
+        "rating": 4.7
+      },
+      {
+        "id": 15,
+        "name": "iOS App Development with Swift",
+        "slug": "ios-app-development-with-swift",
+        "instructor": "Emma Wilson",
+        "description": "Build iOS apps using Swift programming language.",
+        "exploreLink": "/course/15",
+        "pricing": "$79",
+        "rating": 4.8
+      },
+      {
+        "id": 16,
+        "name": "SQL Database Fundamentals",
+        "slug": "sql-database-fundamentals",
+        "instructor": "Daniel Brown",
+        "description": "Learn the basics of SQL and database management.",
+        "exploreLink": "/course/16",
+        "pricing": "$59",
+        "rating": 4.5
+      },
+      {
+        "id": 17,
+        "name": "Full Stack Web Development",
+        "slug": "full-stack-web-development",
+        "instructor": "Olivia Smith",
+        "description": "Master both front-end and back-end web development.",
+        "exploreLink": "/course/17",
+        "pricing": "$99",
+        "rating": 4.9
+      },
+      {
+        "id": 18,
+        "name": "AWS Cloud Computing",
+        "slug": "aws-cloud-computing",
+        "instructor": "Aiden Johnson",
+        "description": "Get hands-on experience with AWS cloud services.",
+        "exploreLink": "/course/18",
+        "pricing": "$89",
+        "rating": 4.8
+      },
+      {
+        "id": 19,
+        "name": "Cybersecurity Fundamentals",
+        "slug": "cybersecurity-fundamentals",
+        "instructor": "Ethan Davis",
+        "description": "Learn essential cybersecurity concepts and practices.",
+        "exploreLink": "/course/19",
+        "pricing": "$79",
+        "rating": 4.7
+      },
+      {
+        "id": 20,
+        "name": "Mobile UX Design",
+        "slug": "mobile-ux-design",
+        "instructor": "Chloe Smith",
+        "description": "Design user-friendly mobile experiences.",
+        "exploreLink": "/course/20",
+        "pricing": "$59",
+        "rating": 4.6
+      },
+      {
+        "id": 21,
+        "name": "Blockchain Basics",
+        "slug": "blockchain-basics",
+        "instructor": "Liam Wilson",
+        "description": "Get an introduction to blockchain technology.",
+        "exploreLink": "/course/21",
+        "pricing": "$69",
+        "rating": 4.7
+      },
+      {
+        "id": 22,
+        "name": "Digital Marketing Fundamentals",
+        "slug": "digital-marketing-fundamentals",
+        "instructor": "Zoe Brown",
+        "description": "Learn the basics of digital marketing strategies.",
+        "exploreLink": "/course/22",
+        "pricing": "$49",
+        "rating": 4.5
+      },
+      {
+        "id": 23,
+        "name": "UI/UX Design Principles",
+        "slug": "ui-ux-design-principles",
+        "instructor": "Mia Johnson",
+        "description": "Understand the principles of user interface and user experience design.",
+        "exploreLink": "/course/23",
+        "pricing": "$59",
+        "rating": 4.6
+      },
+      {
+        "id": 24,
+        "name": "Big Data Analytics",
+        "slug": "big-data-analytics",
+        "instructor": "Noah Davis",
+        "description": "Explore techniques for analyzing large datasets.",
+        "exploreLink": "/course/24",
+        "pricing": "$79",
+        "rating": 4.7
+      },
+      {
+        "id": 25,
+        "name": "Cloud Native Development",
+        "slug": "cloud-native-development",
+        "instructor": "Ava Lee",
+        "description": "Learn to build and deploy cloud-native applications.",
+        "exploreLink": "/course/25",
+        "pricing": "$89",
+        "rating": 4.8
+      }
+    ],
+  "course-detail": [
+      {
+        "id": 1,
+        "name": "Introduction to React Native",
+        "slug": "introduction-to-react-native",
+        "instructor": "John Doe",
+        "description": "Learn the basics of React Native development and build your first mobile app.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "8 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to React Native",
+            "content": "Overview of React Native, setting up your development environment."
+          },
+          {
+            "week": 2,
+            "topic": "Building Your First App",
+            "content": "Creating a simple mobile app using React Native components."
+          }
+        ],
+        "students": [
+          {
+            "id": 101,
+            "name": "Alice Johnson",
+            "email": "alice@example.com"
+          },
+          {
+            "id": 102,
+            "name": "Bob Smith",
+            "email": "bob@example.com"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Advanced JavaScript",
+        "slug": "advanced-javascript",
+        "instructor": "Jane Smith",
+        "description": "Deep dive into advanced JavaScript concepts.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "10 weeks",
+        "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": ["Intermediate JavaScript knowledge"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Closures and Scope",
+            "content": "Understanding closures and lexical scope in JavaScript."
+          },
+          {
+            "week": 2,
+            "topic": "Asynchronous JavaScript",
+            "content": "Working with asynchronous code using callbacks, promises, and async/await."
+          }
+        ],
+        "students": [
+          {
+            "id": 103,
+            "name": "Charlie Brown",
+            "email": "charlie@example.com"
+          },
+          {
+            "id": 104,
+            "name": "Diana Johnson",
+            "email": "diana@example.com"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Responsive Web Design",
+        "slug": "responsive-web-design",
+        "instructor": "Alice Johnson",
+        "description": "Master responsive design techniques.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "6 weeks",
+        "schedule": "Fridays, 5:00 PM - 7:00 PM",
+        "location": "Online",
+        "prerequisites": ["HTML", "CSS"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Responsive Design",
+            "content": "Understanding the principles of responsive web design."
+          },
+          {
+            "week": 2,
+            "topic": "Media Queries",
+            "content": "Using CSS media queries to create responsive layouts."
+          }
+        ],
+        "students": [
+          {
+            "id": 105,
+            "name": "Emma Wilson",
+            "email": "emma@example.com"
+          },
+          {
+            "id": 106,
+            "name": "Frank Smith",
+            "email": "frank@example.com"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Node.js for Beginners",
+        "slug": "node-js-for-beginners",
+        "instructor": "Bob Brown",
+        "description": "Get started with server-side JavaScript using Node.js.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "8 weeks",
+        "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic JavaScript knowledge"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Node.js",
+            "content": "Understanding Node.js and its core modules."
+          },
+          {
+            "week": 2,
+            "topic": "Building RESTful APIs",
+            "content": "Creating RESTful APIs with Express.js."
+          }
+        ],
+        "students": [
+          {
+            "id": 107,
+            "name": "George Wilson",
+            "email": "george@example.com"
+          },
+          {
+            "id": 108,
+            "name": "Hannah Smith",
+            "email": "hannah@example.com"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Python Programming",
+        "slug": "python-programming",
+        "instructor": "Emily Johnson",
+        "description": "Learn Python programming from scratch.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "10 weeks",
+        "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+        "location": "Online",
+        "prerequisites": ["None"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Python",
+            "content": "Getting started with Python and basic syntax."
+          },
+          {
+            "week": 2,
+            "topic": "Data Structures",
+            "content": "Understanding lists, tuples, dictionaries, and sets."
+          }
+        ],
+        "students": [
+          {
+            "id": 109,
+            "name": "Isabella Brown",
+            "email": "isabella@example.com"
+          },
+          {
+            "id": 110,
+            "name": "Jack Wilson",
+            "email": "jack@example.com"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Data Science Fundamentals",
+        "slug": "data-science-fundamentals",
+        "instructor": "Daniel Smith",
+        "description": "Learn the basics of data science and analytics.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "12 weeks",
+        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic Python knowledge", "Mathematics background"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Data Science",
+            "content": "Overview of data science and its applications."
+          },
+          {
+            "week": 2,
+            "topic": "Data Analysis with Pandas",
+            "content": "Exploratory data analysis using the Pandas library."
+          }
+        ],
+        "students": [
+          {
+            "id": 111,
+            "name": "Kevin Johnson",
+            "email": "kevin@example.com"
+          },
+          {
+            "id": 112,
+            "name": "Lily Brown",
+            "email": "lily@example.com"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Machine Learning Basics",
+        "slug": "machine-learning-basics",
+        "instructor": "Olivia Wilson",
+        "description": "Introduction to machine learning algorithms and techniques.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "8 weeks",
+        "schedule": "Fridays, 6:00 PM - 8:00 PM",
+        "location": "Online",
+        "prerequisites": ["Python programming"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Machine Learning",
+            "content": "Understanding the basics of machine learning."
+          },
+          {
+            "week": 2,
+            "topic": "Linear Regression",
+            "content": "Introduction to linear regression and its applications."
+          }
+        ],
+        "students": [
+          {
+            "id": 113,
+            "name": "Mia Wilson",
+            "email": "mia@example.com"
+          },
+          {
+            "id": 114,
+            "name": "Nathan Brown",
+            "email": "nathan@example.com"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Frontend Web Development",
+        "slug": "frontend-web-development",
+        "instructor": "Sophia Johnson",
+        "description": "Master frontend web development technologies.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "12 weeks",
+        "schedule": "Saturdays and Sundays, 10:00 AM - 12:00 PM",
+        "location": "Online",
+        "prerequisites": ["HTML", "CSS", "JavaScript"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "HTML and CSS Basics",
+            "content": "Introduction to HTML and CSS fundamentals."
+          },
+          {
+            "week": 2,
+            "topic": "JavaScript Fundamentals",
+            "content": "Understanding JavaScript basics and DOM manipulation."
+          }
+        ],
+        "students": [
+          {
+            "id": 115,
+            "name": "Oliver Wilson",
+            "email": "oliver@example.com"
+          },
+          {
+            "id": 116,
+            "name": "Penelope Brown",
+            "email": "penelope@example.com"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Full Stack Web Development",
+        "slug": "full-stack-web-development",
+        "instructor": "Lucas Smith",
+        "description": "Learn both frontend and backend web development.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "16 weeks",
+        "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+        "location": "Online",
+        "prerequisites": ["HTML", "CSS", "JavaScript", "Node.js", "Databases"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Full Stack Development",
+            "content": "Overview of frontend and backend technologies."
+          },
+          {
+            "week": 2,
+            "topic": "Building RESTful APIs with Express.js",
+            "content": "Creating RESTful APIs using Express.js."
+          }
+        ],
+        "students": [
+          {
+            "id": 117,
+            "name": "Quinn Wilson",
+            "email": "quinn@example.com"
+          },
+          {
+            "id": 118,
+            "name": "Rachel Brown",
+            "email": "rachel@example.com"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Cloud Computing Fundamentals",
+        "slug": "cloud-computing-fundamentals",
+        "instructor": "Noah Johnson",
+        "description": "Learn the basics of cloud computing and services.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "8 weeks",
+        "schedule": "Thursdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic understanding of networking"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Cloud Computing",
+            "content": "Understanding cloud computing models and services."
+          },
+          {
+            "week": 2,
+            "topic": "AWS Fundamentals",
+            "content": "Introduction to Amazon Web Services (AWS) and its core services."
+          }
+        ],
+        "students": [
+          {
+            "id": 119,
+            "name": "Samantha Wilson",
+            "email": "samantha@example.com"
+          },
+          {
+            "id": 120,
+            "name": "Thomas Brown",
+            "email": "thomas@example.com"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Cybersecurity Essentials",
+        "slug": "cybersecurity-essentials",
+        "instructor": "Mia Johnson",
+        "description": "Essential cybersecurity principles and best practices.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "6 weeks",
+        "schedule": "Wednesdays, 5:00 PM - 7:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic understanding of computers and networks"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Cybersecurity",
+            "content": "Overview of cybersecurity and its importance."
+          },
+          {
+            "week": 2,
+            "topic": "Network Security",
+            "content": "Understanding network security protocols and techniques."
+          }
+        ],
+        "students": [
+          {
+            "id": 121,
+            "name": "Ulysses Wilson",
+            "email": "ulysses@example.com"
+          },
+          {
+            "id": 122,
+            "name": "Victoria Brown",
+            "email": "victoria@example.com"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Blockchain Fundamentals",
+        "slug": "blockchain-fundamentals",
+        "instructor": "Liam Johnson",
+        "description": "Learn the basics of blockchain technology and cryptocurrencies.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "8 weeks",
+        "schedule": "Fridays, 8:00 PM - 10:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic understanding of computer science"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Blockchain",
+            "content": "Overview of blockchain technology and its applications."
+          },
+          {
+            "week": 2,
+            "topic": "Cryptocurrencies",
+            "content": "Understanding cryptocurrencies and how they work."
+          }
+        ],
+        "students": [
+          {
+            "id": 123,
+            "name": "William Wilson",
+            "email": "william@example.com"
+          },
+          {
+            "id": 124,
+            "name": "Xavier Brown",
+            "email": "xavier@example.com"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Artificial Intelligence Basics",
+        "slug": "artificial-intelligence-basics",
+        "instructor": "Ava Johnson",
+        "description": "Introduction to artificial intelligence concepts and applications.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here",
+        "duration": "10 weeks",
+        "schedule": "Saturdays, 3:00 PM - 5:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic understanding of programming"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to AI",
+            "content": "Overview of artificial intelligence and its subfields."
+          },
+          {
+            "week": 2,
+            "topic": "Machine Learning Basics",
+            "content": "Introduction to machine learning algorithms."
+          }
+        ],
+        "students": [
+          {
+            "id": 125,
+            "name": "Yvonne Wilson",
+            "email": "yvonne@example.com"
+          },
+          {
+            "id": 126,
+            "name": "Zachary Brown",
+            "email": "zachary@example.com"
+          }
+        ]
+      }] ,
+  "enrolled-courses": [
+      {
+          "studentId": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com",
+          "enrolledCourses": [
+            {
+              "courseId": 1,
+              "courseName": "Introduction to React Native",
+              "courseNameSlug": "introduction-to-react-native",
+              "instructor": "John Doe",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-08-15",
+              "progress": 60,
+              "completed": false
+            },
+            {
+              "courseId": 2,
+              "courseName": "Advanced JavaScript",
+              "courseNameSlug": "advanced-javascript",
+              "instructor": "Jane Smith",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-08-20",
+              "progress": 40,
+              "completed": false
+            },
+            {
+              "courseId": 3,
+              "courseName": "Responsive Web Design",
+              "courseNameSlug": "responsive-web-design",
+              "instructor": "Alice Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-08-25",
+              "progress": 80,
+              "completed": true
+            },
+            {
+              "courseId": 4,
+              "courseName": "Node.js for Beginners",
+              "courseNameSlug": "node-js-for-beginners",
+              "instructor": "Bob Brown",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-08-30",
+              "progress": 20,
+              "completed": false
+            },
+            {
+              "courseId": 5,
+              "courseName": "Python Programming",
+              "courseNameSlug": "python-programming",
+              "instructor": "Emily Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-09-05",
+              "progress": 90,
+              "completed": true
+            },
+            {
+              "courseId": 6,
+              "courseName": "Data Science Fundamentals",
+              "courseNameSlug": "data-science-fundamentals",
+              "instructor": "Daniel Smith",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-09-10",
+              "progress": 50,
+              "completed": false
+            },
+            {
+              "courseId": 7,
+              "courseName": "Machine Learning Basics",
+              "courseNameSlug": "machine-learning-basics",
+              "instructor": "Olivia Wilson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-09-15",
+              "progress": 75,
+              "completed": false
+            },
+            {
+              "courseId": 8,
+              "courseName": "Frontend Web Development",
+              "courseNameSlug": "frontend-web-development",
+              "instructor": "Sophia Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-09-20",
+              "progress": 30,
+              "completed": false
+            },
+            {
+              "courseId": 9,
+              "courseName": "Full Stack Web Development",
+              "courseNameSlug": "full-stack-web-development",
+              "instructor": "Lucas Smith",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-09-25",
+              "progress": 100,
+              "completed": true
+            },
+            {
+              "courseId": 10,
+              "courseName": "Cloud Computing Fundamentals",
+              "courseNameSlug": "cloud-computing-fundamentals",
+              "instructor": "Noah Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-09-30",
+              "progress": 10,
+              "completed": false
+            },
+            {
+              "courseId": 11,
+              "courseName": "Cybersecurity Essentials",
+              "courseNameSlug": "cybersecurity-essentials",
+              "instructor": "Mia Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-10-05",
+              "progress": 85,
+              "completed": true
+            },
+            {
+              "courseId": 12,
+              "courseName": "Blockchain Fundamentals",
+              "courseNameSlug": "blockchain-fundamentals",
+              "instructor": "Liam Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-10-10",
+              "progress": 45,
+              "completed": false
+            },
+            {
+              "courseId": 13,
+              "courseName": "Artificial Intelligence Basics",
+              "courseNameSlug": "artificial-intelligence-basics",
+              "instructor": "Ava Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-10-15",
+              "progress": 70,
+              "completed": false
+            },
+            {
+              "courseId": 14,
+              "courseName": "Digital Marketing Fundamentals",
+              "courseNameSlug": "digital-marketing-fundamentals",
+              "instructor": "Logan Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-10-20",
+              "progress": 95,
+              "completed": true
+            },
+            {
+              "courseId": 15,
+              "courseName": "UI/UX Design Principles",
+              "courseNameSlug": "ui-ux-design-principles",
+              "instructor": "Luna Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-10-25",
+              "progress": 25,
+              "completed": false
+            },
+            {
+              "courseId": 16,
+              "courseName": "SQL Database Fundamentals",
+              "courseNameSlug": "sql-database-fundamentals",
+              "instructor": "Oscar Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-11-05",
+              "progress": 60,
+              "completed": true
+            },
+            {
+              "courseId": 17,
+              "courseName": "iOS App Development",
+              "courseNameSlug": "ios-app-development",
+              "instructor": "Peter Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-11-10",
+              "progress": 40,
+              "completed": false
+            },
+            {
+              "courseId": 18,
+              "courseName": "Android App Development",
+              "courseNameSlug": "android-app-development",
+              "instructor": "Quinn Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-11-15",
+              "progress": 80,
+              "completed": true
+            },
+            {
+              "courseId": 19,
+              "courseName": "Game Development with Unity",
+              "courseNameSlug": "game-development-with-unity",
+              "instructor": "Riley Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-11-20",
+              "progress": 20,
+              "completed": false
+            },
+            {
+              "courseId": 20,
+              "courseName": "Ethical Hacking",
+              "courseNameSlug": "ethical-hacking",
+              "instructor": "Sam Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-11-25",
+              "progress": 90,
+              "completed": true
+            },
+            {
+              "courseId": 21,
+              "courseName": "Digital Illustration",
+              "courseNameSlug": "digital-illustration",
+              "instructor": "Tara Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-12-05",
+              "progress": 50,
+              "completed": false
+            },
+            {
+              "courseId": 22,
+              "courseName": "Video Editing Fundamentals",
+              "courseNameSlug": "video-editing-fundamentals",
+              "instructor": "Uma Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-12-10",
+              "progress": 75,
+              "completed": false
+            },
+            {
+              "courseId": 23,
+              "courseName": "Music Production Techniques",
+              "courseNameSlug": "music-production-techniques",
+              "instructor": "Victor Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-12-15",
+              "progress": 30,
+              "completed": true
+            },
+            {
+              "courseId": 24,
+              "courseName": "Photography Basics",
+              "courseNameSlug": "photography-basics",
+              "instructor": "Wendy Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-12-20",
+              "progress": 65,
+              "completed": false
+            },
+            {
+              "courseId": 25,
+              "courseName": "Creative Writing",
+              "courseNameSlug": "creative-writing",
+              "instructor": "Xander Johnson",
+              "thumbnail": "your.image.here",
+              "dueDate": "2024-12-25",
+              "progress": 85,
+              "completed": false
+            }
+          ]
+        }          
+  ]
+}
